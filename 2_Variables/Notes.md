@@ -2,9 +2,9 @@ In JAVA, creating variables is similar to C/C++. We first need to define a datat
 
 Syntax:
 -------
-'''
+```
 DataType VarName;
-'''
+```
 
 Example:
 --------
